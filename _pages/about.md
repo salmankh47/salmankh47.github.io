@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Salman</strong> K.H
+description: <a href="">Affiliations</a>. PhD Scholar, University of Hyderabad.
 
 profile:
   align: right

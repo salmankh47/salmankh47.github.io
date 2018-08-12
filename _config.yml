@@ -12,14 +12,14 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "The new site"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Salman"
+description              : "Wanderer of AI"
 url                      : https://salmankh47.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Salman K.H"
-  avatar           : "/assets/images/bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo-small.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The lazy learner."
   location         : "Hyderabad"
   email            : "i.salman.kh@gmail.com"
@@ -111,9 +111,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           :
+  github           : "salmankh47"
   gitlab           :
   google_plus      :
   keybase          :
